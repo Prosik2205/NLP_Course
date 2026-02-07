@@ -1,3 +1,5 @@
+#python -m nltk.downloader punkt_tab
+
 #SETUP & INSTALLATION
 
 import nltk
